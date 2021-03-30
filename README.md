@@ -10,17 +10,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects & Get my degree 🤣
 - ⚡ Fun fact: I love to play Badminton
 
-### Connect with me:
+:zap: GitHub Stats</summary>
 
-[<img align="left" alt="mubeenpatel99.github.io" width="22px" color="orange" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
-
-[<img align="left" alt="CodGenix | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img align="left" alt="Mubeen Patel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Mubeen Patel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+![Mubeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubeenpatel99&show_icons=true&theme=radical)
 
 ### 📺 Latest YouTube Videos
 
@@ -35,10 +27,15 @@
 ➡️ [more videos...](https://youtube.com/codgenix)
 
 ---
+### Connect with me:
 
-:zap: GitHub Stats</summary>
+[<img align="left" alt="mubeenpatel99.github.io" width="22px" color="orange" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
 
-![Mubeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubeenpatel99&show_icons=true&theme=radical)
+[<img align="left" alt="CodGenix | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[<img align="left" alt="Mubeen Patel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Mubeen Patel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://mubeenpatel99.github.io
 [course]: https://www.youtube.com/watch?v=ESWUH74if1w&list=PLrIwPWdg1m0_8kZ_zeIGGkXrA-p0SS5-Q
