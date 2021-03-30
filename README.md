@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects & Get my degree 🤣
 - ⚡ Fun fact: I love to play Badminton
 
-<hr>
+##
 
 :zap: GitHub Stats</summary>
 
