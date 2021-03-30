@@ -1,7 +1,5 @@
 ### Hi there, I'm Mubeen 👋
 
-[![Website](https://mubeenpatel99.github.io)](https://mubeenpatel99.github.io)
-
 ## I'm a Student, Developer, and YouTuber!!
 
 - 🔭 I just launched my first free course: [Become A Git SuperHero!][course]!
@@ -12,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-mubeenpatel99.vercel.app/api/spotify-playing" alt="Mubeen's Spotify Playing" width="350" />](https://open.spotify.com/user/	s6fnwzlc99r8f2415jk5kg1v1)
 
 ### Connect with me:
 
@@ -35,14 +33,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mubeens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mubeenpatel99&show_icons=true&hide_border=true" />
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubeenpatel99&show_icons=true&theme=radical)
-
-</details>
+![Mubeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubeenpatel99&show_icons=true&theme=radical)
 
 [website]: https://mubeenpatel99.github.io
 [course]: https://www.youtube.com/watch?v=ESWUH74if1w&list=PLrIwPWdg1m0_8kZ_zeIGGkXrA-p0SS5-Q
