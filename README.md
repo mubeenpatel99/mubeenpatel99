@@ -1,6 +1,6 @@
 ### Hi there, I'm Mubeen 👋
 
-![Website](https://img.shields.io/website?down_color=grey&down_message=offline&label=website&logo=brave&style=for-the-badge&up_message=up&url=https%3A%2F%2Fmubeenpatel99.github.io)
+![Website](https://img.shields.io/website?down_color=grey&down_message=offline&label=website&logo=brave&style=for-the-badge&up_message=up&url=https%3A%2F%2Fmubeenpatel99.github.io)[website]!
 
 ## I'm a Student, Developer, and YouTuber!!
 
@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects & Get my degree 🤣
 - ⚡ Fun fact: I love to play Badminton
+
+<hr>
 
 :zap: GitHub Stats</summary>
 
