@@ -38,7 +38,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mubeens's GitHub Stats" src="https://github-readme-stats.mubeenpatel99.vercel.app/api?username=mubeenpatel99&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mubeens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mubeenpatel99&show_icons=true&hide_border=true" />
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubeenpatel99&show_icons=true&theme=radical)
 
 </details>
 
