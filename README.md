@@ -10,9 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects & Get my degree 🤣
 - ⚡ Fun fact: I love to play Badminton
 
-##
-
-:zap: GitHub Stats</summary>
+## :zap: GitHub Stats
 
 ![Mubeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubeenpatel99&show_icons=true&theme=radical)
 
