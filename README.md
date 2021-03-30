@@ -14,7 +14,7 @@
 
 ![Mubeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubeenpatel99&show_icons=true&theme=radical)
 
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Build A Python App That Tracks Amazon Products Price For You Under 20 Mins](https://www.youtube.com/watch?v=BTzu9hIYYeQ)
