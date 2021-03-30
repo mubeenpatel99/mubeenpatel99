@@ -10,10 +10,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects & Get my degree 🤣
 - ⚡ Fun fact: I love to play Badminton
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-eight-drab.vercel.app/api/spotify-playing" alt="Mubeen's Spotify Playing" width="350" />](https://open.spotify.com/user/5906af0dbaa24899a4525680547ce99f)
-
 ### Connect with me:
 
 [<img align="left" alt="mubeenpatel99.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
