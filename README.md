@@ -1,5 +1,7 @@
 ### Hi there, I'm Mubeen 👋
 
+![Website](https://img.shields.io/website?down_color=grey&down_message=offline&label=website&logo=brave&style=for-the-badge&up_message=up&url=https%3A%2F%2Fmubeenpatel99.github.io)
+
 ## I'm a Student, Developer, and YouTuber!!
 
 - 🔭 I just launched my first free course: [Become A Git SuperHero!][course]!
@@ -10,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-mubeenpatel99.vercel.app/api/spotify-playing" alt="Mubeen's Spotify Playing" width="350" />](https://open.spotify.com/user/	s6fnwzlc99r8f2415jk5kg1v1)
+[<img src="https://spotify-now-playing-eight-drab.vercel.app/api/spotify-playing" alt="Mubeen's Spotify Playing" width="350" />](https://open.spotify.com/user/5906af0dbaa24899a4525680547ce99f)
 
 ### Connect with me:
 
