@@ -1,6 +1,6 @@
 ### Hi there, I'm Mubeen 👋
 
-![Website](https://img.shields.io/website?down_color=grey&down_message=offline&label=website&logo=brave&style=for-the-badge&up_message=up&url=https%3A%2F%2Fmubeenpatel99.github.io)[website]!
+![Website](https://img.shields.io/website?down_color=grey&down_message=offline&label=website&logo=brave&style=for-the-badge&up_message=up&url=https%3A%2F%2Fmubeenpatel99.github.io)
 
 ## I'm a Student, Developer, and YouTuber!!
 
