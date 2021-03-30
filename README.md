@@ -27,6 +27,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build A Python App That Tracks Amazon Products Price For You Under 20 Mins](https://www.youtube.com/watch?v=BTzu9hIYYeQ)
+- [First Hands on Bootstrap 5 | Login Page | Utility API | Variables](https://www.youtube.com/watch?v=G2gWoeQON_w)
+- [Bootstrap 5 First Look | Animapp For Figma](https://www.youtube.com/watch?v=8vMVVEBkv04)
+- [📣 TOP 1️2️ VS CODE EXTENSIONS | BOOST🚀 YOUR PRODUCTIVITY😎](https://www.youtube.com/watch?v=fIbJovBOAqY)
+- [Create Website Without Knowing How To Code | Anima Plugin](https://www.youtube.com/watch?v=8diPGI9Y8TM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codgenix)
