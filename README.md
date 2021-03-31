@@ -1,6 +1,6 @@
 ### Hi there, I'm Mubeen 👋
 
-![Website](https://img.shields.io/website?down_color=grey&down_message=offline&label=website&logo=brave&style=for-the-badge&up_message=up&url=https%3A%2F%2Fmubeenpatel99.github.io)
+[![Website](https://img.shields.io/website?down_color=grey&down_message=offline&label=website&logo=brave&style=for-the-badge&up_message=up&url=https%3A%2F%2Fmubeenpatel99.github.io)](https://mubeenpatel99.github.io)
 
 <img align="right" alt="Hello" src="https://github.com/mubeenpatel99/mubeenpatel99/blob/main/life.gif?raw=true" width="300" height="220" />
 
