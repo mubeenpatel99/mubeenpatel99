@@ -2,6 +2,8 @@
 
 ![Website](https://img.shields.io/website?down_color=grey&down_message=offline&label=website&logo=brave&style=for-the-badge&up_message=up&url=https%3A%2F%2Fmubeenpatel99.github.io)
 
+<img align="right" alt="Hello" src="https://github.com/mubeenpatel99/mubeenpatel99/media/life.gif?raw=true" width="500" height="320" />
+
 ## I'm a Student, Developer, and YouTuber!!
 
 - 🔭 I just launched my first free course: [Become A Git SuperHero!][course]!
